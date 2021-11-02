@@ -261,7 +261,7 @@ ShesyBAKA.Size = UDim2.new(0, 89, 0, 38)
 ShesyBAKA.Font = Enum.Font.Oswald
 
 
-ShesyBAKA.Text = "Winning"
+ShesyBAKA.Text = "Nob"
 
 
 ShesyBAKA.TextColor3 = Color3.fromRGB(255, 255, 255)
